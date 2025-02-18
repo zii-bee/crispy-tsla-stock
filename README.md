@@ -10,7 +10,7 @@ A machine learning project to predict Tesla (TSLA) stock prices using a Long Sho
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Future Work](#future-work)
-- [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Overview
 
@@ -110,4 +110,7 @@ The project produces several visualizations:
 - **Model Optimization:**\
   Fine-tune hyperparameters and incorporate regularization techniques to further improve generalization and robustness.
 
+## Disclaimer
+
+This project is intended as an educational and experimental implementation for predicting stock prices. The predicted changes or prices are not guaranteed to be 100% accurate and should not be relied upon for making financial decisions. This model can offer a general idea of price movements and serves as a foundation for further development towards long-term forecasting improvements.
 
