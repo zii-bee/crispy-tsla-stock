@@ -74,8 +74,6 @@ The LSTM model used in this project consists of:
 
 ## Results
 
-The project produces several visualizations:
-
 - **Training Predictions vs. Observations:**\
   ![image](https://github.com/user-attachments/assets/28c20050-bb02-4c27-8532-441023a546ac)
 
